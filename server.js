@@ -1,5 +1,8 @@
 'use strict';
 
+// const theword = require("./theword.js")
+
+
 // Create an instance of a socket server
 const port = process.env.PORT || 3000;
 const io = require('socket.io')(port);
