@@ -2,7 +2,7 @@
 
 const io = require('socket.io-client');
 
-const socket = io.connect('http://172.16.0.231:3000');
+const socket = io.connect('http://socketdemo-env.ke93y4czed.us-east-2.elasticbeanstalk.com/');
 
 const faker = require('faker');
 
