@@ -1,7 +1,5 @@
 'use strict';
 
-const faker = require('faker');
-
 module.exports = (theWord) => {
-  console.log("This is the payload -", faker.hacker.phrase() );
+  console.log('This is this is the payload', theWord);
 };
