@@ -1,17 +1,26 @@
 {
-  "name": "socket-io",
+  "name": "lab19",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "main": "app.js",
   "dependencies": {
     "faker": "^4.1.0",
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript/socket-test.git"
+  },
+  "author": "Jeremy Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript/socket-test/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript/socket-test#readme"
 }
