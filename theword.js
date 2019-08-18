@@ -1,5 +1,5 @@
-'use strict';
+"use strict";
 
-module.exports = (theWord) => {
-  console.log(theWord);
+module.exports = theWord => {
+  console.log("This is the payload", theWord);
 };
