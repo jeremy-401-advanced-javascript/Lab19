@@ -5,30 +5,19 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/jeremy-401-advanced-javascript/Lab19/pull/3)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [back-end](http://socketdemo-env.ke93y4czed.us-east-2.elasticbeanstalk.com/) (when applicable)
 
 ### Modules
 #### `modulename.js`
+`theword.js`
 ##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+`console.log with faker message
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - 3000
 
 #### Running the app
 * `node app.js`
