@@ -1,8 +1,8 @@
-# LAB - 
+# LAB - 19
 
-## Project Name
+## AWS APP DEPLOYMENT
 
-### Author: Student/Group Name
+### Author: Jeremy Lee
 
 ### Links and Resources
 * [submission PR](https://github.com/jeremy-401-advanced-javascript/Lab19/pull/3)
